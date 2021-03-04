@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Sales
 {
-    class venta
+    class Sale
     {
         public Salesman Salesman;
         public Product Product;
